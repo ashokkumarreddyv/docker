@@ -1,1 +1,1 @@
-From alamlinux:9
+FROM alamlinux:9
